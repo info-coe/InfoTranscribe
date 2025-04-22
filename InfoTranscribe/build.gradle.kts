@@ -44,6 +44,7 @@ afterEvaluate {
     }
 }
 
+
 dependencies {
 
     implementation(libs.androidx.core.ktx)

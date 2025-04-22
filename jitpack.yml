@@ -4,3 +4,7 @@ jdk :
 before_install :
   - sdk install java 17.0.11-open
   - sdk use java 17.0.11-open
+
+build:
+      gradle:
+        - InfoTranscribe/build.gradle
