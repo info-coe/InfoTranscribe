@@ -51,11 +51,11 @@ android {
 
 dependencies {
 
-    implementation(project(":InfoTranscribe"))
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
     implementation(platform(libs.androidx.compose.bom))
+    implementation("com.github.info-coe:InfoTranscribe:1.0.0")
     implementation(libs.androidx.ui)
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
