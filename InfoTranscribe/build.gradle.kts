@@ -32,9 +32,15 @@ android {
         jvmTarget = "1.8"
     }
 
+}
 
+afterEvaluate {
     publishing {
-        singleVariant("release")
+        publications {
+            register<MavenPublication>("release") {
+                from(components["release"])
+            }
+        }
     }
 }
 
