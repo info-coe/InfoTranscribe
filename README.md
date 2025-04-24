@@ -3,7 +3,7 @@
 # Introducing you InfoTranscribe
 
 <p align="center">
-  <img src="InfoTranscribe.png" alt="InfoTranscribe SDK Banner" width="100%" />
+  <img src="assests/InfoTranscribe.png" alt="InfoTranscribe SDK Banner" width="100%" />
 </p>
 
 An extended version of the [Azure SDK for Android](https://github.com/Azure/azure-sdk-for-android), adding enhanced functionality tailored for modern Android development. Supports coroutines, Jetpack libraries.

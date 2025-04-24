@@ -55,6 +55,7 @@ import com.infomericainc.infotranscribe.api.TranscribeStatus
 import com.infomericainc.infotranscribe.api.ResponseType
 import com.infomericainc.infotranscribe.ui.theme.InfoTranscribeTheme
 
+
 @Composable
 fun LiveTranscribeExample(
     paddingValues: PaddingValues
@@ -317,7 +318,6 @@ fun LiveTranscribeExample(
                 ),
             fontWeight = FontWeight.Bold
         )
-
         LazyRow(
             modifier = Modifier
                 .padding(
