@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.infomericainc.infotranscribe"
+    namespace = "com.infomericainc.infotranscribe.lib"
     compileSdk = 35
 
     defaultConfig {
