@@ -19,7 +19,9 @@ Here’s a quick look at what this SDK can do:
   <img src="assests/Media.jpeg" alt="InfoTranscribe SDK Banner" width="100%" />
 </p>
 
-![SDK Demo](assets/demo.gif)
+And this is the preview
+
+![SDK](assests/demo_transcribe.gif)
 
 
 &nbsp;
