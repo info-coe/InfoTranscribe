@@ -14,6 +14,11 @@ An extended version of the [Azure SDK for Android](https://github.com/Azure/azur
 
 Here’s a quick look at what this SDK can do:
 
+
+<p align="center">
+  <img src="assests/Media.jpeg" alt="InfoTranscribe SDK Banner" width="100%" />
+</p>
+
 ![SDK Demo](assets/demo.gif)
 
 
